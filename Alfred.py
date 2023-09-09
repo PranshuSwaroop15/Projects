@@ -358,13 +358,7 @@ if __name__ == "__main__":
             elif 'message' in query:
 
                 user_names={
-                    'Pranshu':"+91 8826 7378 30",
-
-                    'Suyash':"+91 9810 8140 56",
-
-                    'Mummy':"+91 9599 2633 87",
-
-                    'Rishabh':"+91 9717 4382 30"
+   
 
                     }
                 
